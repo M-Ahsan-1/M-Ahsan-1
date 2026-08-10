@@ -7,10 +7,16 @@
 </p>
 
 ---
-### 🌐 Socials
+### 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-ahsan-b3880b37a)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahsancpp@gmail.com)
+<p align="left">
+  <a href="https://linkedin.com/in/muhammad-ahsan-b3880b37a" target="_blank">
+    <img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ahsancpp@gmail.com">
+    <img src="https://img.shields.io/badge/-Drop%20me%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 ### 🔭 About Me
 
 - ⚡ 2 SFML games built with C++

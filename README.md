@@ -1,69 +1,115 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2DD4BF,100:6366F1&height=200&section=header&text=Hi%20there,%20I'm%20Ahsan%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Full-Stack%20Dev%20%7C%20Building%20AppBridge&descAlignY=55&descSize=18" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2DD4BF&height=180&section=header&text=Muhammad%20Ahsan&fontSize=45&fontColor=ffffff&fontAlignY=40&desc=CS%20Student%20@%20FAST-NUCES%20·%20Full-Stack%20Developer&descAlignY=62&descSize=16&animation=fadeIn" width="100%"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2DD4BF&center=true&vCenter=true&width=600&lines=CS+Student+at+FAST+NUCES;C%2B%2B+%2F+SFML+Game+Dev;Full-Stack+Web+Developer;Building+AppBridge+%F0%9F%9A%80" />
+</p>
 
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=2DD4BF&center=true&vCenter=true&width=650&repeat=true&lines=Building+AppBridge+%E2%80%94+MCP+for+Claude+Desktop;Shipped+Daakhla+%26+Safarnama+to+production;C%2B%2B+%2F+SFML+Game+Developer" alt="Typing SVG" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/📍_Lahore,_Pakistan-1E293B?style=flat-square&labelColor=1E293B&color=1E293B"/>
-<img src="https://img.shields.io/badge/🎓_FAST--NUCES-1E293B?style=flat-square&labelColor=1E293B&color=1E293B"/>
-<img src="https://img.shields.io/badge/🚀_Building_AppBridge-1E293B?style=flat-square&labelColor=1E293B&color=1E293B"/>
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2DD4BF,100:6366F1&height=3&width=800" />
+</p>
 
 <br/>
 
-## 🧩 Projects
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-**[Daakhla](https://daakhla.vercel.app)** — Admissions guide covering 50+ Pakistani universities, with a merit calculator
-&nbsp;&nbsp;`HTML` `CSS` `JavaScript`
+### 🚀 About Me
 
-**[Safarnama](https://safarnama-pak.vercel.app)** — Northern Pakistan travel guide with route planning and live Firebase-backed reviews
-&nbsp;&nbsp;`HTML` `CSS` `JavaScript` `Firebase`
+- 🌐 Built **Daakhla** & **Safarnama** — live on Vercel
+- 🧩 Building **AppBridge** — MCP integrations for Claude Desktop
+- 🎮 2 games built with C++ / SFML
+- 🤝 Love backend & API integrations
+- 🌱 Currently exploring MCP, React, AI tooling
+- 💬 Ask me about web dev, game dev, or uni admissions in Pakistan
 
-**AppBridge** *(in progress)* — Connects Gmail, Notion, GitHub & Slack to Claude Desktop over MCP
-&nbsp;&nbsp;`React` `Vite` `Tailwind`
+</td>
+<td width="50%" valign="top">
 
-**SFML Games** — Two C++ games built from scratch, covering game loops, collision, and rendering
-&nbsp;&nbsp;`C++` `SFML`
+### 📊 GitHub Stats
 
-<br/>
+<img src="https://github-readme-stats-six-rho-99.vercel.app/api?username=M-Ahsan-1&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&count_private=true" width="100%"/>
 
-## 🛠️ Tech Stack
+</td>
+</tr>
+</table>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,cpp,firebase,vercel,git,github,vscode" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2DD4BF,100:6366F1&height=3&width=800" />
+</p>
 
-<br/>
-<br/>
+<h3 align="center">🎯 Featured Projects</h3>
 
-## 📊 GitHub Activity
+<table align="center" width="100%">
+<tr>
+<td align="center" width="33%">
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:2DD4BF,100:14b8a6&height=90&text=🎓&fontSize=40&section=header"/><br/>
+<b>Daakhla</b><br/>
+<sub>50+ Pakistani university admissions guide with merit calculator</sub><br/>
+<sub><code>HTML</code> <code>CSS</code> <code>JS</code></sub><br/>
+<a href="https://daakhla.vercel.app">🔗 Visit</a>
+</td>
+<td align="center" width="33%">
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:6366F1,100:818cf8&height=90&text=🏔️&fontSize=40&section=header"/><br/>
+<b>Safarnama</b><br/>
+<sub>Northern Pakistan travel guide, route planner & Firebase reviews</sub><br/>
+<sub><code>JS</code> <code>Firebase</code></sub><br/>
+<a href="https://safarnama-pak.vercel.app">🔗 Visit</a>
+</td>
+<td align="center" width="33%">
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:f97316,100:fb923c&height=90&text=🧩&fontSize=40&section=header"/><br/>
+<b>AppBridge</b><br/>
+<sub>Connects Gmail, Notion, GitHub, Slack to Claude via MCP</sub><br/>
+<sub><code>React</code> <code>Vite</code> <code>Tailwind</code></sub><br/>
+<sub>🚧 In Progress</sub>
+</td>
+</tr>
+</table>
 
-<div align="center">
-<img height="160" src="https://github-readme-stats-six-rho-99.vercel.app/api?username=M-Ahsan-1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=2DD4BF&icon_color=2DD4BF" />
-<img height="160" src="https://github-readme-stats-six-rho-99.vercel.app/api/top-langs/?username=M-Ahsan-1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=2DD4BF" />
-</div>
+<p align="center">
+<sub>also built: 2 C++ / SFML games 🎮</sub>
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2DD4BF,100:6366F1&height=3&width=800" />
+</p>
 
-<div align="center">
+<h3 align="center">🛠️ Tech Stack</h3>
 
-### 📫 Reach out
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,cpp,vercel,git,github" />
+</p>
 
-<a href="https://linkedin.com/in/muhammad-ahsan-b3880b37a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:ahsancpp@gmail.com"><img src="https://img.shields.io/badge/Email-2DD4BF?style=flat-square&logo=gmail&logoColor=white"/></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2DD4BF,100:6366F1&height=3&width=800" />
+</p>
 
-<br/><br/>
+<h3 align="center">🐍 Contribution Snake</h3>
 
-![snake gif](https://raw.githubusercontent.com/M-Ahsan-1/M-Ahsan-1/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![snake gif](https://raw.githubusercontent.com/M-Ahsan-1/M-Ahsan-1/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/M-Ahsan-1/M-Ahsan-1/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/M-Ahsan-1/M-Ahsan-1/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2DD4BF,100:0F172A&height=100&section=footer" width="100%"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2DD4BF,100:6366F1&height=3&width=800" />
+</p>
 
-</div>
+<h3 align="center">🌐 Let's Connect</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/muhammad-ahsan-b3880b37a" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ahsancpp@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-2DD4BF?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=M-Ahsan-1&color=2DD4BF&style=for-the-badge&label=PROFILE+VIEWS" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2DD4BF,100:6366F1&height=100&section=footer" />

@@ -31,7 +31,7 @@
 | Project | Description | Tech | Link |
 |---|---|---|---|
 | 🎓 **Daakhla** | 50+ Pakistani university admissions guide with merit calculator | HTML, CSS, JS | [daakhla.vercel.app](https://daakhla.vercel.app) |
-| 🏔️ **Safarnama** | Northern Pakistan travel guide with route planner & Firebase reviews | HTML, CSS, JS, Firebase | Live on Vercel |
+| 🏔️ **Safarnama** | Northern Pakistan travel guide with route planner & Firebase reviews | HTML, CSS, JS, Firebase | [Live on Vercel](https://safarnama-pak.vercel.app) |
 | 🌉 **AppBridge** | Connects Gmail, Notion, GitHub, Slack to Claude Desktop via MCP | React, Vite, Tailwind | In Progress |
 | 🎮 **SFML Games** | 2 games built from scratch in C++ using SFML | C++, SFML | Repo Link |
 

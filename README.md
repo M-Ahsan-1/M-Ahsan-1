@@ -74,16 +74,17 @@
 
 <h3 align="center">🎮 My Games</h3>
 
-<table align="center" width="100%">
+<table align="center">
 <tr>
-<td align="center" width="50%">
-<img src="https://raw.githubusercontent.com/M-Ahsan-1/M-Ahsan-1/main/hang.png" width="100%"/><br/>
+<td align="center">
+<img src="https://raw.githubusercontent.com/M-Ahsan-1/M-Ahsan-1/main/hang.png" width="200"/><br/>
 <b>Hangman</b><br/>
 <sub>Classic word-guessing game with keyboard input & lives system</sub><br/>
 <sub><code>C++</code> <code>SFML</code></sub>
 </td>
-<td align="center" width="50%">
-<img src="https://raw.githubusercontent.com/M-Ahsan-1/M-Ahsan-1/main/td.png" width="100%"/><br/>
+<td width="30"></td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/M-Ahsan-1/M-Ahsan-1/main/td.png" width="200"/><br/>
 <b>Tower Defence</b><br/>
 <sub>5 maps, 5 tower types, 5 enemy types, economy system, upgrade shop</sub><br/>
 <sub><code>C++</code> <code>SFML</code></sub>

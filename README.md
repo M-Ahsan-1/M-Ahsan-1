@@ -7,13 +7,24 @@
 </p>
 
 ---
-### 🌐 Socials
+### 🌐 Let's Connect
 
-<p align="left">
-  <a href="https://linkedin.com/in/muhammad-ahsan-b3880b37a"><img width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" /></a>
-  &nbsp;&nbsp;
-  <a href="mailto:ahsancpp@gmail.com"><img width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" /></a>
-</p>
+<table>
+<tr>
+<td align="center" width="200">
+<a href="https://linkedin.com/in/muhammad-ahsan-b3880b37a">
+<img src="https://skillicons.dev/icons?i=linkedin" width="40"/><br/>
+<b>LinkedIn</b>
+</a>
+</td>
+<td align="center" width="200">
+<a href="mailto:ahsancpp@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="40"/><br/>
+<b>Email</b>
+</a>
+</td>
+</tr>
+</table>
 ### 🔭 About Me
 
 - ⚡ 2 SFML games built with C++

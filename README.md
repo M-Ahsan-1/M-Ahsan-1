@@ -1,5 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2DD4BF&height=180&section=header&text=Ahsan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Dev%20%7C%20CS%20Student&descAlignY=55&descSize=18" width="100%"/>
+
 </p>
 <h1 align="center">Hi 👋, I'm Ahsan</h1>
 

@@ -77,16 +77,16 @@
 <table align="center" width="100%">
 <tr>
 <td align="center" width="50%">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:2DD4BF,100:14b8a6&height=80&text=🏰&fontSize=35&section=header"/><br/>
-<b>Tower Defence</b><br/>
-<sub>5 maps, 5 tower types, 5 enemy types, economy system, upgrade shop</sub><br/>
+<img src="https://raw.githubusercontent.com/M-Ahsan-1/M-Ahsan-1/main/hang.png" width="100%"/><br/>
+<b>Hangman</b><br/>
+<sub>Classic word-guessing game with keyboard input & lives system</sub><br/>
 <sub><code>C++</code> <code>SFML</code></sub>
 </td>
 <td align="center" width="50%">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:6366F1,100:818cf8&height=80&text=🎲&fontSize=35&section=header"/><br/>
-<b>Mini Game Hub</b><br/>
-<sub>5 offline games: Car Race, Block Tower, Balloon Pop, Catch the Fruit, Tic-Tac-Toe</sub><br/>
-<sub><code>HTML</code> <code>CSS</code> <code>JS</code></sub>
+<img src="https://raw.githubusercontent.com/M-Ahsan-1/M-Ahsan-1/main/td.png" width="100%"/><br/>
+<b>Tower Defence</b><br/>
+<sub>5 maps, 5 tower types, 5 enemy types, economy system, upgrade shop</sub><br/>
+<sub><code>C++</code> <code>SFML</code></sub>
 </td>
 </tr>
 </table>

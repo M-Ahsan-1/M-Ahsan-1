@@ -68,11 +68,3 @@
 ![snake gif](https://raw.githubusercontent.com/M-Ahsan-1/M-Ahsan-1/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ---
-### 🌳 3D Contribution Graph
-<p align="center">
-  <img src="https://raw.githubusercontent.com/M-Ahsan-1/M-Ahsan-1/main/profile-3d-contrib/profile-night-green.svg" />
-</p>
-### 📊 Live Metrics
-<p align="center">
-  <img src="https://raw.githubusercontent.com/M-Ahsan-1/M-Ahsan-1/main/metrics.svg" />
-</p>

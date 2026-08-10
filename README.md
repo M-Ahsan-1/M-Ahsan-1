@@ -50,10 +50,10 @@
 
 ---
 
-### 🏆 Trophies
+### 👀 Profile Views
 
 <p align="center">
- <img src="https://github-profile-trophy-nine-ecru.vercel.app/?username=M-Ahsan-1&theme=darkhub&no-frame=true&row=1&column=6" />
+  <img src="https://komarev.com/ghpvc/?username=M-Ahsan-1&color=2DD4BF&style=flat" />
 </p>
 
 ---

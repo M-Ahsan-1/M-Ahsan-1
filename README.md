@@ -45,14 +45,14 @@
 <table align="center" width="100%">
 <tr>
 <td align="center" width="33%">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:2DD4BF,100:14b8a6&height=90&text=🎓&fontSize=40&section=header"/><br/>
+<img src="https://daakhla.vercel.app/img/og-image.png" width="100%"/><br/>
 <b>Daakhla</b><br/>
 <sub>50+ Pakistani university admissions guide with merit calculator</sub><br/>
 <sub><code>HTML</code> <code>CSS</code> <code>JS</code></sub><br/>
 <a href="https://daakhla.vercel.app">🔗 Visit</a>
 </td>
 <td align="center" width="33%">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:6366F1,100:818cf8&height=90&text=🏔️&fontSize=40&section=header"/><br/>
+<img src="https://safarnama-pak.vercel.app/images/og.png" width="100%"/><br/>
 <b>Safarnama</b><br/>
 <sub>Northern Pakistan travel guide, route planner & Firebase reviews</sub><br/>
 <sub><code>JS</code> <code>Firebase</code></sub><br/>
@@ -67,11 +67,6 @@
 </td>
 </tr>
 </table>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2DD4BF,100:6366F1&height=3&width=800" />
-</p>
-
 <h3 align="center">🎮 My Games</h3>
 
 <table align="center">

@@ -7,14 +7,17 @@
 </p>
 
 ---
-### 🌐 Let's Connect
+### 🌐 Socials
+
+📫 **Reach out, let's build something cool together!**
 
 <p align="left">
-  <a href="https://linkedin.com/in/muhammad-ahsan-b3880b37a" target="_blank">
-    <img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/muhammad-ahsan-b3880b37a">
+    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Ahsan-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=000000" />
   </a>
+  &nbsp;
   <a href="mailto:ahsancpp@gmail.com">
-    <img src="https://img.shields.io/badge/-Drop%20me%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-ahsancpp@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&labelColor=000000" />
   </a>
 </p>
 ### 🔭 About Me

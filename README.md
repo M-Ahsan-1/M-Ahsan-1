@@ -30,7 +30,18 @@
 ---
 
 ### 📌 Featured Projects
+| 🎮 **SFML Games** | 2 games built from scratch in C++ using SFML | C++, SFML | Repo Link |
 
+### 📌 Pinned Repos
+<p align="center">
+  <img src="https://github-readme-stats-six-rho-99.vercel.app/api/pin/?username=M-Ahsan-1&repo=Daakhla&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-six-rho-99.vercel.app/api/pin/?username=M-Ahsan-1&repo=Safarnama&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats-six-rho-99.vercel.app/api/pin/?username=M-Ahsan-1&repo=AppBridge&theme=tokyonight&hide_border=true" />
+</p>
+
+---
 | Project | Description | Tech | Link |
 |---|---|---|---|
 | 🎓 **Daakhla** | 50+ Pakistani university admissions guide with merit calculator | HTML, CSS, JS | [daakhla.vercel.app](https://daakhla.vercel.app) |

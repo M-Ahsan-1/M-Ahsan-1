@@ -18,8 +18,8 @@
 
 ### 🚀 About Me
 
-- 🌐 Built **Daakhla** & **Safarnama** — live on Vercel
-- 🧩 Building **AppBridge** — MCP integrations for Claude Desktop
+- 🌐 Built **Daakhla** & **Safarnama** (live on Vercel)
+- 🧩 Building **AppBridge** (MCP integrations for Claude Desktop)
 - 🎮 2 games built with C++ / SFML
 - 🤝 Love backend & API integrations
 - 🌱 Currently exploring MCP, React, AI tooling

@@ -1,39 +1,71 @@
-# 💫 About Me:
-⚡ 2 SFML games built with C++
+<h1 align="center">Hi 👋, I'm Ahsan</h1>
 
-🌐 Daakhla & Safarnama, both live on Vercel
-
-🔭 Building AppBridge: MCP integrations for Claude Desktop
-
-👯 Pakistani web apps: admissions, travel, utility
-
-🤝 Backend & API integrations
-
-🌱 MCP, React, C++/SFML
-
-💬 Web dev, game dev, uni admissions
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/muhammad-ahsan-b3880b37a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahsancpp@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=M-Ahsan-1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=M-Ahsan-1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=M-Ahsan-1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=M-Ahsan-1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=M-Ahsan-1&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2DD4BF&center=true&vCenter=true&width=500&lines=CS+Student+at+FAST+NUCES;Full-Stack+Web+Developer;C%2B%2B+%2F+SFML+Game+Dev;Building+AppBridge+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=M-Ahsan-1&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### 🔭 About Me
+
+- ⚡ 2 SFML games built with C++
+- 🌐 Daakhla & Safarnama, both live on Vercel
+- 🚧 Building AppBridge: MCP integrations for Claude Desktop
+- 👯 Pakistani web apps: admissions, travel, utility
+- 🤝 Backend & API integrations
+- 🌱 MCP, React, C++/SFML
+- 💬 Web dev, game dev, uni admissions
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,cpp,vercel,git,github" />
+</p>
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description | Tech | Link |
+|---|---|---|---|
+| 🎓 **Daakhla** | 50+ Pakistani university admissions guide with merit calculator | HTML, CSS, JS | [daakhla.vercel.app](https://daakhla.vercel.app) |
+| 🏔️ **Safarnama** | Northern Pakistan travel guide with route planner & Firebase reviews | HTML, CSS, JS, Firebase | Live on Vercel |
+| 🌉 **AppBridge** | Connects Gmail, Notion, GitHub, Slack to Claude Desktop via MCP | React, Vite, Tailwind | In Progress |
+| 🎮 **SFML Games** | 2 games built from scratch in C++ using SFML | C++, SFML | Repo Link |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=M-Ahsan-1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Ahsan-1&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Ahsan-1&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=M-Ahsan-1&theme=darkhub&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
 ![snake gif](https://raw.githubusercontent.com/M-Ahsan-1/M-Ahsan-1/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![snake gif](https://raw.githubusercontent.com/M-Ahsan-1/M-Ahsan-1/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+### 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-ahsan-b3880b37a)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahsancpp@gmail.com)

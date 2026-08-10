@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2DD4BF,100:6366F1&height=200&section=header&text=Hi%20there,%20I'm%20Ahsan%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FAST-CS%20Student%20%7C%20Full-Stack%20Dev%20%7C%20Game%20Dev&descAlignY=55&descSize=18" />
+  <img src="https://raw.githubusercontent.com/M-Ahsan-1/M-Ahsan-1/main/hero-banner.svg" width="100%"/>
 </p>
 
 <p align="center">
@@ -40,6 +40,26 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2DD4BF,100:6366F1&height=3&width=800" />
 </p>
 
+<h3 align="center">💬 Quote of the Day</h3>
+
+<p align="center">
+  <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2DD4BF,100:6366F1&height=3&width=800" />
+</p>
+
+<h3 align="center">⚡ Recent Activity</h3>
+
+<!--START_SECTION:activity-->
+<!-- This section updates automatically every 6 hours via .github/workflows/activity.yml -->
+<!--END_SECTION:activity-->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2DD4BF,100:6366F1&height=3&width=800" />
+</p>
+
 <h3 align="center">🎯 Featured Projects</h3>
 
 <table align="center" width="100%">
@@ -62,11 +82,12 @@
 <img src="https://raw.githubusercontent.com/M-Ahsan-1/M-Ahsan-1/main/apb.png" width="100%"/><br/>
 <b>AppBridge</b><br/>
 <sub>Connects Gmail, Notion, GitHub, Slack to Claude via MCP</sub><br/>
-<sub><code>React</code> <code>Vite</code> <code>Tailwind</code></sub><br/>
 <sub>🚧 In Progress</sub>
 </td>
 </tr>
-</table><h3 align="center">🎮 My Games</h3>
+</table>
+
+<h3 align="center">🎮 My Games</h3>
 
 <table align="center">
 <tr>

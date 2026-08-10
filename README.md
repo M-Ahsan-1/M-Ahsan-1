@@ -52,14 +52,7 @@
 <a href="https://daakhla.vercel.app">🔗 Visit</a>
 </td>
 <td align="center" width="33%">
-<img src="https://safarnama-pak.vercel.app/images/og.png" width="100%"/><br/>
-<b>Safarnama</b><br/>
-<sub>Northern Pakistan travel guide, route planner & Firebase reviews</sub><br/>
-<sub><code>JS</code> <code>Firebase</code></sub><br/>
-<a href="https://safarnama-pak.vercel.app">🔗 Visit</a>
-</td>
-<td align="center" width="33%">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:f97316,100:fb923c&height=90&text=🧩&fontSize=40&section=header"/><br/>
+<img src="https://raw.githubusercontent.com/M-Ahsan-1/M-Ahsan-1/main/appbridge.png" width="100%"/><br/>
 <b>AppBridge</b><br/>
 <sub>Connects Gmail, Notion, GitHub, Slack to Claude via MCP</sub><br/>
 <sub><code>React</code> <code>Vite</code> <code>Tailwind</code></sub><br/>

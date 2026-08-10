@@ -7,16 +7,13 @@
 </p>
 
 ---
-### 🌐 Connect With Me
+### 🌐 Socials
 
-\`\`\`bash
-$ whoami
-Muhammad Ahsan — Full-Stack Dev | Building AppBridge 🚀
-
-$ contact --list
-> linkedin  : https://linkedin.com/in/muhammad-ahsan-b3880b37a
-> email     : ahsancpp@gmail.com
-\`\`\`
+<p align="left">
+  <a href="https://linkedin.com/in/muhammad-ahsan-b3880b37a"><img width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" /></a>
+  &nbsp;&nbsp;
+  <a href="mailto:ahsancpp@gmail.com"><img width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" /></a>
+</p>
 ### 🔭 About Me
 
 - ⚡ 2 SFML games built with C++

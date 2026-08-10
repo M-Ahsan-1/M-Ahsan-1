@@ -69,5 +69,6 @@
 
 ---
 ### 🌳 3D Contribution Graph
-![3D Contribution](https://raw.githubusercontent.com/M-Ahsan-1/M-Ahsan-1/main/profile-3d-contrib/profile-night-green.svg)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/M-Ahsan-1/M-Ahsan-1/main/profile-3d-contrib/profile-night-green.svg" />
+</p>

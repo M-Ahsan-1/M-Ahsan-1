@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2DD4BF,100:6366F1&height=200&section=header&text=Hi%20there,%20I'm%20Ahsan%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FAST-CS%20Student%20%7C%20Full-Stack%20Dev%20%7C%20&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2DD4BF,100:6366F1&height=200&section=header&text=Hi%20there,%20I'm%20Ahsan%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FAST-CS%20Student%20%7C%20Full-Stack%20Dev%20%7C%20Game%20Dev&descAlignY=55&descSize=18" />
 </p>
 
 <p align="center">
@@ -69,8 +69,27 @@
 </table>
 
 <p align="center">
-<sub>also built: 2 C++ / SFML games 🎮</sub>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2DD4BF,100:6366F1&height=3&width=800" />
 </p>
+
+<h3 align="center">🎮 My Games</h3>
+
+<table align="center" width="100%">
+<tr>
+<td align="center" width="50%">
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:2DD4BF,100:14b8a6&height=80&text=🏰&fontSize=35&section=header"/><br/>
+<b>Tower Defence</b><br/>
+<sub>5 maps, 5 tower types, 5 enemy types, economy system, upgrade shop</sub><br/>
+<sub><code>C++</code> <code>SFML</code></sub>
+</td>
+<td align="center" width="50%">
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:6366F1,100:818cf8&height=80&text=🎲&fontSize=35&section=header"/><br/>
+<b>Mini Game Hub</b><br/>
+<sub>5 offline games: Car Race, Block Tower, Balloon Pop, Catch the Fruit, Tic-Tac-Toe</sub><br/>
+<sub><code>HTML</code> <code>CSS</code> <code>JS</code></sub>
+</td>
+</tr>
+</table>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2DD4BF,100:6366F1&height=3&width=800" />

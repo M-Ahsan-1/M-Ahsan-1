@@ -1,7 +1,17 @@
 # 💫 About Me:
-🔭 AppBridge — connecting Gmail, Notion, GitHub, Slack to Claude Desktop via MCP (frontend lead)<br><br>👯 Web apps solving real Pakistani problems — admissions, travel, utility platforms<br><br>🤝 Backend/auth & API integrations<br><br>🌱 MCP integrations, advanced React, C++/SFML game dev<br><br>💬 HTML/CSS/JS, Vercel hosting, SFML game dev, Pakistani uni admissions<br><br>⚡ Built 2 games with SFML + C++, and sites like Daakhla (50+ uni admissions guide) & Safarnama (Northern Pakistan travel site) — hosted on Vercel
+⚡ 2 SFML games built with C++
 
+🌐 Daakhla & Safarnama, both live on Vercel
 
+🔭 Building AppBridge: MCP integrations for Claude Desktop
+
+👯 Pakistani web apps: admissions, travel, utility
+
+🤝 Backend & API integrations
+
+🌱 MCP, React, C++/SFML
+
+💬 Web dev, game dev, uni admissions
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/muhammad-ahsan-b3880b37a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahsancpp@gmail.com) 
 

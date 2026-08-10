@@ -40,7 +40,30 @@
 | 🏔️ **Safarnama** | Northern Pakistan travel guide with route planner & Firebase reviews | HTML, CSS, JS, Firebase | [Safarnama.vercel.app](https://safarnama-pak.vercel.app) |
 | 🌉 **AppBridge** | Connects Gmail, Notion, GitHub, Slack to Claude Desktop via MCP | React, Vite, Tailwind | In Progress |
 | 🎮 **SFML Games** | 2 games built from scratch in C++ using SFML | C++, SFML | Repo Link |
+### 🚀 What I'm Building
 
+<table>
+<tr>
+<td width="33%">
+<img src="LINK-TO-DAAKHLA-SCREENSHOT" width="100%"/>
+<h4>🎓 Daakhla</h4>
+<p>Pakistani university admissions guide with merit calculator</p>
+<a href="https://daakhla.vercel.app">Live →</a>
+</td>
+<td width="33%">
+<img src="LINK-TO-SAFARNAMA-SCREENSHOT" width="100%"/>
+<h4>🏔️ Safarnama</h4>
+<p>Northern Pakistan travel guide</p>
+<a href="https://safarnama-pak.vercel.app">Live →</a>
+</td>
+<td width="33%">
+<img src="LINK-TO-APPBRIDGE-SCREENSHOT" width="100%"/>
+<h4>🌉 AppBridge</h4>
+<p>MCP integrations for Claude Desktop</p>
+<a href="#">In Progress</a>
+</td>
+</tr>
+</table>
 ---
 
 ### 📊 GitHub Stats

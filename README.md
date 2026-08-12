@@ -53,5 +53,3 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=M-Ahsan-1&color=2DD4BF&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2DD4BF,100:6366F1&height=80&section=footer" />

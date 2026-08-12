@@ -39,13 +39,7 @@
   <img src="https://raw.githubusercontent.com/M-Ahsan-1/M-Ahsan-1/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
 </p>
 
-<h3 align="center">🌐 Let's Connect</h3>
+<h3 align="center">🌐 Profile Views</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/muhammad-ahsan-b3880b37a" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ahsancpp@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-2DD4BF?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <img src="https://komarev.com/ghpvc/?username=M-Ahsan-1&color=2DD4BF&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>

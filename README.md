@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/M-Ahsan-1/M-Ahsan-1/main/signal.svg" width="800"/>
+  <img src="https://cdn.jsdelivr.net/gh/M-Ahsan-1/M-Ahsan-1@main/signal.svg" width="800"/>
 </p>
 
 <table align="center">

@@ -1,83 +1,79 @@
-<svg width="800" height="210" viewBox="0 0 800 210" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg viewBox="0 0 1100 380" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bgGrad" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#0b0b16"/>
-      <stop offset="100%" stop-color="#05050a"/>
+    <linearGradient id="borderGlow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2DD4BF"/>
+      <stop offset="100%" stop-color="#6366F1"/>
     </linearGradient>
-    <radialGradient id="vignette" cx="50%" cy="45%" r="75%">
-      <stop offset="60%" stop-color="#000000" stop-opacity="0"/>
-      <stop offset="100%" stop-color="#000000" stop-opacity="0.55"/>
-    </radialGradient>
-    <filter id="grain">
-      <feTurbulence id="turb2" type="fractalNoise" baseFrequency="0.85" numOctaves="2" stitchTiles="stitch" result="n"/>
-      <feColorMatrix in="n" type="matrix"
-        values="0 0 0 0 0.18
-                0 0 0 0 0.83
-                0 0 0 0 0.75
-                0 0 0 0.045 0"/>
-      <animate xlink:href="#turb2" attributeName="baseFrequency" dur="0.4s" values="0.85;0.7;0.9;0.85" repeatCount="indefinite"/>
+    <linearGradient id="scanBeam" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2DD4BF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#2DD4BF" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#2DD4BF" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
-    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
-      <rect width="4" height="1" fill="#000" opacity="0.4"/>
-    </pattern>
-    <clipPath id="rounded">
-      <rect x="0" y="0" width="800" height="210" rx="10"/>
-    </clipPath>
-    <clipPath id="revealCmd">
-      <rect x="0" y="0" width="0" height="26">
-        <animate id="revealCmdAnim" attributeName="width" from="0" to="255" dur="1.1s" begin="0.3s" fill="freeze"/>
-      </rect>
-    </clipPath>
-    <clipPath id="revealOut">
-      <rect x="0" y="0" width="0" height="26">
-        <animate id="revealOutAnim" attributeName="width" from="0" to="470" dur="1.5s" begin="revealCmdAnim.end+0.15s" fill="freeze"/>
-      </rect>
-    </clipPath>
+    <clipPath id="scanClip"><rect x="46" y="264" width="1008" height="90" rx="8"/></clipPath>
   </defs>
 
-  <g clip-path="url(#rounded)">
-    <rect width="800" height="210" fill="url(#bgGrad)"/>
-    <rect width="800" height="210" filter="url(#grain)"/>
-    <rect width="800" height="210" fill="url(#scan)" opacity="0.5"/>
-    <rect width="800" height="210" fill="url(#vignette)"/>
+  <style>
+    .mono{font-family:'JetBrains Mono','Fira Code',Consolas,monospace;}
+    @keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+    @keyframes fadeUp{0%{opacity:0;transform:translateY(6px)}100%{opacity:1;transform:translateY(0)}}
+    @keyframes sweep{0%{transform:translateX(0)}100%{transform:translateX(1128px)}}
+    @keyframes pulseGlow{0%,100%{opacity:.55}50%{opacity:1}}
+    @keyframes barPulse{0%,100%{opacity:.25;transform:scaleY(.6)}50%{opacity:1;transform:scaleY(1)}}
+    .cursor{animation:blink 1s step-end infinite}
+    .l1{animation:fadeUp .5s ease-out .1s both}
+    .l2{animation:fadeUp .5s ease-out .5s both}
+    .l3{animation:fadeUp .5s ease-out .85s both}
+    .l4{animation:fadeUp .5s ease-out 1.15s both}
+    .scanline{animation:sweep 3.2s linear infinite}
+    .lockedTxt{animation:pulseGlow 2s ease-in-out 1.6s infinite}
+    .bar1{animation:barPulse 1.4s ease-in-out infinite;transform-origin:bottom}
+    .bar2{animation:barPulse 1.4s ease-in-out .2s infinite;transform-origin:bottom}
+    .bar3{animation:barPulse 1.4s ease-in-out .4s infinite;transform-origin:bottom}
+    .bar4{animation:barPulse 1.4s ease-in-out .6s infinite;transform-origin:bottom}
+  </style>
 
-    <!-- title bar -->
-    <rect x="0" y="0" width="800" height="34" fill="#0d0d18" opacity="0.9"/>
-    <circle cx="22" cy="17" r="6" fill="#ff5f57"/>
-    <circle cx="42" cy="17" r="6" fill="#febc2e"/>
-    <circle cx="62" cy="17" r="6" fill="#2DD4BF"/>
-    <text x="400" y="22" text-anchor="middle" font-family="Courier New, monospace" font-size="12" fill="#8b8fa3">ahsan@kryzon: ~</text>
-    <line x1="0" y1="34" x2="800" y2="34" stroke="#2DD4BF" stroke-opacity="0.15"/>
+  <rect x="2" y="2" width="1096" height="376" rx="14" fill="#090b12" stroke="url(#borderGlow)" stroke-width="1.5"/>
+  <rect x="2.5" y="2.5" width="1095" height="42" rx="13" fill="#0d1017"/>
+  <rect x="2.5" y="24" width="1095" height="21" fill="#0d1017"/>
+  <circle cx="26" cy="23" r="6" fill="#F87171"/>
+  <circle cx="46" cy="23" r="6" fill="#FBBF24"/>
+  <circle cx="66" cy="23" r="6" fill="#34D399"/>
+  <text x="550" y="27" text-anchor="middle" class="mono" font-size="13" fill="#8892a6">ahsan@kryzon: ~</text>
+  <line x1="2.5" y1="45" x2="1097.5" y2="45" stroke="#1c2333" stroke-width="1"/>
 
-    <!-- prompt line -->
-    <g clip-path="url(#revealCmd)">
-      <text x="40" y="88" font-family="Courier New, monospace" font-size="21" fill="#2DD4BF">ahsan@kryzon:~$ whoami</text>
-    </g>
-    <rect x="285" y="70" width="10" height="22" fill="#2DD4BF">
-      <animate attributeName="x" values="40;295" dur="1.1s" begin="0.3s" fill="freeze"/>
-      <animate attributeName="opacity" values="1;0" dur="0.01s" begin="revealCmdAnim.end" fill="freeze"/>
-    </rect>
+  <g class="mono">
+    <text x="46" y="96" class="l1" font-size="15" fill="#34D399">$ <tspan fill="#8892a6">whoami</tspan></text>
+    <text x="46" y="142" class="l1" font-size="34" font-weight="700" fill="#2DD4BF" filter="url(#glow)">Muhammad Ahsan<tspan class="cursor" fill="#2DD4BF">_</tspan></text>
 
-    <!-- output line -->
-    <g clip-path="url(#revealOut)">
-      <text x="40" y="128" font-family="Courier New, monospace" font-size="21" font-weight="bold" fill="#f4f4f6">Ahsan — Full-Stack Dev &amp; Game Dev</text>
-    </g>
-    <rect x="0" y="110" width="10" height="22" fill="#f4f4f6">
-      <animate attributeName="x" values="40;510" dur="1.5s" begin="revealCmdAnim.end+0.15s" fill="freeze"/>
-      <animate attributeName="opacity" values="0;1" dur="0.01s" begin="revealCmdAnim.end+0.15s" fill="freeze"/>
-      <animate attributeName="opacity" values="1;0;1" dur="0.9s" begin="revealOutAnim.end" repeatCount="indefinite"/>
-    </rect>
+    <text x="46" y="176" class="l2" font-size="17" fill="#818CF8">FAST-NUCES Lahore &#183; CS Undergrad &#183; 3rd Semester</text>
 
-    <!-- static status line -->
-    <text x="40" y="164" font-family="Courier New, monospace" font-size="14" fill="#6366F1" opacity="0">
-      FAST-NUCES · CS Sophomore · C++ / SFML · React
-      <animate attributeName="opacity" values="0;0;1" dur="0.6s" begin="revealOutAnim.end+0.2s" fill="freeze"/>
-    </text>
-    <text x="40" y="186" font-family="Courier New, monospace" font-size="14" fill="#8b8fa3" opacity="0">
-      portfolio → kryzon.vercel.app
-      <animate attributeName="opacity" values="0;0;1" dur="0.6s" begin="revealOutAnim.end+0.6s" fill="freeze"/>
-    </text>
+    <text x="46" y="204" class="l3" font-size="15" fill="#8892a6">stack &#8594; <tspan fill="#E5E7EB">C++ / SFML</tspan> &#183; <tspan fill="#E5E7EB">React</tspan> &#183; <tspan fill="#E5E7EB">MCP</tspan></text>
 
-    <rect x="1" y="1" width="798" height="208" rx="10" fill="none" stroke="#2DD4BF" stroke-opacity="0.2" stroke-width="1.5"/>
+    <text x="46" y="232" class="l4" font-size="15" fill="#8892a6">portfolio &#8594; <tspan fill="#2DD4BF" text-decoration="underline">kryzon.vercel.app</tspan></text>
+  </g>
+
+  <line x1="46" y1="252" x2="1054" y2="252" stroke="#1c2333" stroke-dasharray="4 4"/>
+
+  <rect x="46" y="264" width="1008" height="90" rx="8" fill="#0d1017"/>
+  <g clip-path="url(#scanClip)">
+    <rect x="-120" y="264" width="120" height="90" fill="url(#scanBeam)" class="scanline"/>
+  </g>
+  <rect x="46" y="264" width="1008" height="90" rx="8" fill="none" stroke="#1c2333"/>
+
+  <g class="mono">
+    <text x="66" y="292" font-size="14" fill="#8892a6">&gt; scanning_frequency<tspan class="cursor">...</tspan></text>
+    <text x="66" y="320" class="lockedTxt" font-size="16" font-weight="700" fill="#2DD4BF">SIGNAL LOCKED &#10003; <tspan fill="#8892a6" font-weight="400">welcome, visitor</tspan></text>
+    <text x="1010" y="292" text-anchor="end" font-size="11" fill="#64748B">FREQ 2.4GHz</text>
+  </g>
+
+  <g transform="translate(978,300)">
+    <rect class="bar1" x="0" y="12" width="4" height="6" fill="#2DD4BF"/>
+    <rect class="bar2" x="7" y="8" width="4" height="10" fill="#2DD4BF"/>
+    <rect class="bar3" x="14" y="4" width="4" height="14" fill="#2DD4BF"/>
+    <rect class="bar4" x="21" y="0" width="4" height="18" fill="#2DD4BF"/>
   </g>
 </svg>

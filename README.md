@@ -2,10 +2,6 @@
   <img src="https://cdn.jsdelivr.net/gh/M-Ahsan-1/M-Ahsan-1@main/terminal-hero.svg?v=2" width="800"/>
 </p>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/M-Ahsan-1/M-Ahsan-1@main/signal.svg?v=2" width="800"/>
-</p>
-
 <table align="center">
 <tr>
 <td width="52%" valign="top">

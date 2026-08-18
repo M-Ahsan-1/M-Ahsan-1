@@ -1,0 +1,82 @@
+<svg viewBox="0 0 1100 404" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="borderGlow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d9488"/>
+      <stop offset="100%" stop-color="#6366F1"/>
+    </linearGradient>
+    <linearGradient id="scanBeam" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0d9488" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#0d9488" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#0d9488" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="scanClip"><rect x="46" y="288" width="1008" height="90" rx="8"/></clipPath>
+  </defs>
+
+  <style>
+    .mono{font-family:'JetBrains Mono','Fira Code',Consolas,monospace;}
+    @keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+    @keyframes fadeUp{0%{opacity:0;transform:translateY(6px)}100%{opacity:1;transform:translateY(0)}}
+    @keyframes sweep{0%{transform:translateX(0)}100%{transform:translateX(1128px)}}
+    @keyframes pulseGlow{0%,100%{opacity:.55}50%{opacity:1}}
+    @keyframes barPulse{0%,100%{opacity:.25;transform:scaleY(.6)}50%{opacity:1;transform:scaleY(1)}}
+    .cursor{animation:blink 1s step-end infinite}
+    .l1{animation:fadeUp .5s ease-out .1s both}
+    .l2{animation:fadeUp .5s ease-out .5s both}
+    .l3{animation:fadeUp .5s ease-out .85s both}
+    .l4{animation:fadeUp .5s ease-out 1.15s both}
+    .l5{animation:fadeUp .5s ease-out 1.45s both}
+    .scanline{animation:sweep 3.2s linear infinite}
+    .lockedTxt{animation:pulseGlow 2s ease-in-out 1.6s infinite}
+    .bar1{animation:barPulse 1.4s ease-in-out infinite;transform-origin:bottom}
+    .bar2{animation:barPulse 1.4s ease-in-out .2s infinite;transform-origin:bottom}
+    .bar3{animation:barPulse 1.4s ease-in-out .4s infinite;transform-origin:bottom}
+    .bar4{animation:barPulse 1.4s ease-in-out .6s infinite;transform-origin:bottom}
+  </style>
+
+  <rect x="2" y="2" width="1096" height="400" rx="14" fill="#ffffff" stroke="url(#borderGlow)" stroke-width="1.5"/>
+  <rect x="2.5" y="2.5" width="1095" height="42" rx="13" fill="#f1f3f9"/>
+  <rect x="2.5" y="24" width="1095" height="21" fill="#f1f3f9"/>
+  <circle cx="26" cy="23" r="6" fill="#F87171"/>
+  <circle cx="46" cy="23" r="6" fill="#d97706"/>
+  <circle cx="66" cy="23" r="6" fill="#059669"/>
+  <text x="550" y="27" text-anchor="middle" class="mono" font-size="13" fill="#5b6478">ahsan@kryzon: ~</text>
+  <line x1="2.5" y1="45" x2="1097.5" y2="45" stroke="#dde1ea" stroke-width="1"/>
+
+  <g class="mono">
+    <text x="46" y="96" class="l1" font-size="15" fill="#059669">$ <tspan fill="#5b6478">whoami</tspan></text>
+    <text x="46" y="142" class="l1" font-size="34" font-weight="700" fill="#0d9488" filter="url(#glow)">Muhammad Ahsan<tspan class="cursor" fill="#0d9488">_</tspan></text>
+
+    <text x="46" y="176" class="l2" font-size="17" fill="#4f46e5">FAST-NUCES Lahore &#183; CS Undergrad &#183; 3rd Semester</text>
+
+    <text x="46" y="204" class="l3" font-size="15" fill="#5b6478">stack &#8594; <tspan fill="#1f2430">C++ / SFML</tspan> &#183; <tspan fill="#1f2430">React</tspan> &#183; <tspan fill="#1f2430">MCP</tspan></text>
+
+    <text x="46" y="232" class="l4" font-size="15" fill="#5b6478">portfolio &#8594; <tspan fill="#0d9488" text-decoration="underline">kryzon.vercel.app</tspan></text>
+
+    <text x="46" y="258" class="l5" font-size="15" fill="#5b6478">contact &#8594; <tspan fill="#0d9488" text-decoration="underline">ahsancpp@gmail.com</tspan> &#183; <tspan fill="#0d9488" text-decoration="underline">linkedin.com/in/muhammad-ahsan-b3880b37a</tspan></text>
+  </g>
+
+  <line x1="46" y1="276" x2="1054" y2="276" stroke="#dde1ea" stroke-dasharray="4 4"/>
+
+  <rect x="46" y="288" width="1008" height="90" rx="8" fill="#f1f3f9"/>
+  <g clip-path="url(#scanClip)">
+    <rect x="-120" y="288" width="120" height="90" fill="url(#scanBeam)" class="scanline"/>
+  </g>
+  <rect x="46" y="288" width="1008" height="90" rx="8" fill="none" stroke="#dde1ea"/>
+
+  <g class="mono">
+    <text x="66" y="316" font-size="14" fill="#5b6478">&gt; scanning_frequency<tspan class="cursor">...</tspan></text>
+    <text x="66" y="344" class="lockedTxt" font-size="16" font-weight="700" fill="#0d9488">SIGNAL LOCKED &#10003; <tspan fill="#5b6478" font-weight="400">welcome, visitor</tspan></text>
+    <text x="1010" y="316" text-anchor="end" font-size="11" fill="#64748B">FREQ 2.4GHz</text>
+  </g>
+
+  <g transform="translate(978,324)">
+    <rect class="bar1" x="0" y="12" width="4" height="6" fill="#0d9488"/>
+    <rect class="bar2" x="7" y="8" width="4" height="10" fill="#0d9488"/>
+    <rect class="bar3" x="14" y="4" width="4" height="14" fill="#0d9488"/>
+    <rect class="bar4" x="21" y="0" width="4" height="18" fill="#0d9488"/>
+  </g>
+</svg>

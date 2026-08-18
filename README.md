@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/M-Ahsan-1/M-Ahsan-1/main/terminal-hero.svg" width="800"/>
+  <img src="https://raw.githubusercontent.com/M-Ahsan-1/M-Ahsan-1/main/terminal-hero.svg#gh-dark-mode-only" width="800"/>
+  <img src="https://raw.githubusercontent.com/M-Ahsan-1/M-Ahsan-1/main/terminal-hero-light.svg#gh-light-mode-only" width="800"/>
 </p>
 
 <table align="center">
@@ -26,7 +27,8 @@
 
 <h3 align="center">🎯 Projects & Games</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/M-Ahsan-1/M-Ahsan-1/main/terminal-projects.svg" width="800"/>
+  <img src="https://raw.githubusercontent.com/M-Ahsan-1/M-Ahsan-1/main/terminal-projects.svg#gh-dark-mode-only" width="800"/>
+  <img src="https://raw.githubusercontent.com/M-Ahsan-1/M-Ahsan-1/main/terminal-projects-light.svg#gh-light-mode-only" width="800"/>
 </p>
 
 <h3 align="center">🛠️ Tech Stack</h3>
